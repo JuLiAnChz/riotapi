@@ -1,9 +1,9 @@
 {
-	"name": "JuLiAnChz/riotapi",
+	"name": "julianchz/riotapi",
 	"type": "library",
 	"description": "Biblioteca para el manejo de la API de Riot Games",
 	"keywords": [
-		"JuLiAnChz",
+		"julianchz",
 		"riotapi"
 	],
 	"homepage": "https://github.com/JuLiAnChz/riotapi",
@@ -24,12 +24,12 @@
 	},
 	"autoload": {
 		"psr-4": {
-				"JuLiAnChz\\riotapi\\": "src"
+				"julianchz\\riotapi\\": "src"
 		}
 	},
 	"autoload-dev": {
 		"psr-4": {
-				"JuLiAnChz\\riotapi\\": "tests"
+				"julianchz\\riotapi\\": "tests"
 		}
 	},
 	"scripts": {
