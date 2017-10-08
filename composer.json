@@ -30,7 +30,7 @@
 	},
 	"autoload-dev": {
 		"psr-4": {
-				"JuLiAnChz\\riotapi\\": "tests"
+				"JuLiAnChz\\riotapi\\": "test"
 		}
 	},
 	"scripts": {
