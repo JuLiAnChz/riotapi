@@ -1,5 +1,5 @@
 <?php
-namespace JuLiAnChz\RiotApi;
+namespace JuLiAnChz\riotapi;
 
 class RiotApi
 {
